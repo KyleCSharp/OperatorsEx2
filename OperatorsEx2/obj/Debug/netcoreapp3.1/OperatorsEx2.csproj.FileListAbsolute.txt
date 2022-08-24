@@ -1,0 +1,14 @@
+C:\Users\kylel\repos\OperatorsEx2\OperatorsEx2\bin\Debug\netcoreapp3.1\OperatorsEx2.exe
+C:\Users\kylel\repos\OperatorsEx2\OperatorsEx2\bin\Debug\netcoreapp3.1\OperatorsEx2.deps.json
+C:\Users\kylel\repos\OperatorsEx2\OperatorsEx2\bin\Debug\netcoreapp3.1\OperatorsEx2.runtimeconfig.json
+C:\Users\kylel\repos\OperatorsEx2\OperatorsEx2\bin\Debug\netcoreapp3.1\OperatorsEx2.runtimeconfig.dev.json
+C:\Users\kylel\repos\OperatorsEx2\OperatorsEx2\bin\Debug\netcoreapp3.1\OperatorsEx2.dll
+C:\Users\kylel\repos\OperatorsEx2\OperatorsEx2\bin\Debug\netcoreapp3.1\OperatorsEx2.pdb
+C:\Users\kylel\repos\OperatorsEx2\OperatorsEx2\obj\Debug\netcoreapp3.1\OperatorsEx2.csproj.AssemblyReference.cache
+C:\Users\kylel\repos\OperatorsEx2\OperatorsEx2\obj\Debug\netcoreapp3.1\OperatorsEx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylel\repos\OperatorsEx2\OperatorsEx2\obj\Debug\netcoreapp3.1\OperatorsEx2.AssemblyInfoInputs.cache
+C:\Users\kylel\repos\OperatorsEx2\OperatorsEx2\obj\Debug\netcoreapp3.1\OperatorsEx2.AssemblyInfo.cs
+C:\Users\kylel\repos\OperatorsEx2\OperatorsEx2\obj\Debug\netcoreapp3.1\OperatorsEx2.csproj.CoreCompileInputs.cache
+C:\Users\kylel\repos\OperatorsEx2\OperatorsEx2\obj\Debug\netcoreapp3.1\OperatorsEx2.dll
+C:\Users\kylel\repos\OperatorsEx2\OperatorsEx2\obj\Debug\netcoreapp3.1\OperatorsEx2.pdb
+C:\Users\kylel\repos\OperatorsEx2\OperatorsEx2\obj\Debug\netcoreapp3.1\OperatorsEx2.genruntimeconfig.cache
